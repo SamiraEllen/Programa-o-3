@@ -67,3 +67,6 @@ function validaRenda(event) {
 function validaForm(event){
 
 }
+function exibirAlerta() {
+    alert("Obrigada por se cadastrar! Vai me dar os cinco pontos? kskskks");
+}
